@@ -1,5 +1,6 @@
 public static class MyExtensions
-{	
+{		
+	#region JSON
 	
 	public static object DumpJson(this object value, string description = null)
 	   {
