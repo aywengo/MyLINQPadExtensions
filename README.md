@@ -1,0 +1,1 @@
+Helps for LINQPad user in some cases present information in Results Tab. (For example: Cryptography, JSON ...)
